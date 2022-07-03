@@ -1,0 +1,44 @@
+P A T C H W O R K
+- Developers: Felix Thalén & Clara G. Köhne         - Cite      : In prep.
+- Contact   : <felix.thalen@uni-goettingen.de>      - DIAMOND v.: 2.0.13
+- Wiki      : github.com/fethalen/patchwork/wiki    - Threads   : 28
+──────────────────────────────────────────────────────────────────────────
+Building DIAMOND database...
+Aligning query sequences against reference database...
+Merging overlapping hits...
+Trimming alignments...
+──────────────────────────────────────────────────────────────────────────
+# markers in: 897
+# markers out: 826 (92.1%)
+# markers < 10 AAs: 0 (0.0%)
+# markers < 5.0% gap-excluded identity: 0 (0.0%)
+┌────────────────┬─────────┬──────┬────────┬───────┐
+│       variable │    mean │  min │ median │   max │
+├────────────────┼─────────┼──────┼────────┼───────┤
+│  reference_len │ 343.523 │   65 │  282.0 │  2810 │
+│      query_len │ 224.948 │   25 │  165.5 │  2169 │
+│        regions │ 1.69492 │    1 │    1.0 │    37 │
+│        contigs │ 2.42252 │    1 │    1.0 │   102 │
+│        matches │  123.37 │   15 │   94.0 │  1926 │
+│     mismatches │ 101.429 │    3 │   73.5 │  1146 │
+│      deletions │ 118.724 │    0 │   79.5 │   813 │
+│ query_coverage │ 66.4191 │ 4.35 │ 69.935 │ 100.0 │
+│       identity │ 56.9015 │ 26.7 │ 55.085 │ 96.55 │
+└────────────────┴─────────┴──────┴────────┴───────┘
+Query coverage in markers:
+            ┌                                        ┐ 
+   0.01-20% ┤■■■■■ 38                                  
+     21-40% ┤■■■■■■■■■■■■■■■ 120                       
+     41-60% ┤■■■■■■■■■■■■■■■■■■ 152                    
+     61-80% ┤■■■■■■■■■■■■■■■■■■■■■■■■■■■ 227           
+    81-100% ┤■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 289   
+            └                                        ┘ 
+Percent identity in markers:
+             ┌                                        ┐ 
+     missing ┤■■■■■■ 71                                 
+       ≤ 30% ┤ 2                                        
+    > 31-50% ┤■■■■■■■■■■■■■■■■■■■■■■■■■ 296             
+    > 51-70% ┤■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■ 415   
+    > 71-90% ┤■■■■■■■■■ 107                             
+   > 91-100% ┤■ 6                                       
+             └                                        ┘ 

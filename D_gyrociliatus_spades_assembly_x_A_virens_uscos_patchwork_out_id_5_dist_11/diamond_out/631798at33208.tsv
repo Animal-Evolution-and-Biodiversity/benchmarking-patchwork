@@ -1,0 +1,2 @@
+queryid	translated_querysequence	querystart	queryend	queryframe	subjectid	subjectsequence	subjectstart	subjectend	cigar	percentidentical	bitscore
+NODE_39_length_133496_cov_190.332319	QINGMLIRSSPEELELRQDVKCMIEKLGTIRARDNFAEYAKLERKIIKCKEKIKTFGIINIG	69635	69450	-1	631798at33208	QVVSILVKETGEEQDLKKNLKDLYGELRTLNMVDEFAKYAKSERRINKLKEEIKQIVIAIG	15	75	56M1I5M	40.3	46.2

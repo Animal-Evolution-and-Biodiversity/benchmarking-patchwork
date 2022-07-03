@@ -1,0 +1,21 @@
+diamond v2.0.13.151 (C) Max Planck Society for the Advancement of Science
+Documentation, support and updates available at http://www.diamondsearch.org
+Please cite: http://dx.doi.org/10.1038/s41592-021-01101-x Nature Methods (2021)
+
+#CPU threads: 28
+Scoring parameters: (Matrix=BLOSUM62 Lambda=0.267 K=0.041 Penalties=11/1)
+Database input file: /media/feli/16tb_storage/transcriptomes/Alitta_virens_genome/Alitta_virens_single_copy_busco_sequences.faa
+Opening the database file...  [0s]
+Loading sequences...  [0.003s]
+Masking sequences...  [0.022s]
+Writing sequences...  [0s]
+Hashing sequences...  [0s]
+Loading sequences...  [0s]
+Writing trailer...  [0s]
+Closing the input file...  [0s]
+Closing the database file...  [0s]
+
+Database sequences  897
+  Database letters  302598
+     Database hash  de6fb86dfb7e61196952d9c1d7dae1d0
+        Total time  0.027000s

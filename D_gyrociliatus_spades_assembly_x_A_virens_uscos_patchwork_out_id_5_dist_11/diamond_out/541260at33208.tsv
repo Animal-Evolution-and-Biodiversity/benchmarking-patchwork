@@ -1,0 +1,2 @@
+queryid	translated_querysequence	querystart	queryend	queryframe	subjectid	subjectsequence	subjectstart	subjectend	cigar	percentidentical	bitscore
+NODE_988_length_25776_cov_159.826795	NSGPKRYDFLDNRWIYKHDSSCLHDLLSKEISEILKRPVSFGDCDY	21815	21952	2	541260at33208	SSGPKRYDFKNGTWIYKHDGIAMHEILSKEISVILKEVIDISGCSY	70	115	46M	56.5	64.3

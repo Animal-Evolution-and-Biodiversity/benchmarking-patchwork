@@ -1,0 +1,2 @@
+queryid	translated_querysequence	querystart	queryend	queryframe	subjectid	subjectsequence	subjectstart	subjectend	cigar	percentidentical	bitscore
+NODE_2244_length_11825_cov_185.231691	QVPSYKLITPSVVSERLKIRGSLARMALRELHEKGVIKVVSRHHRQQIYTRPSKAQES	10531	10704	1	CAD5119175.1	EVPSYKLITPSVVSERLKIRGSLARMALRELHEKGVIKVVSRHHRQQIYTRPSKAQES	59	116	58M	98.3	112.0
