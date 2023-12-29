@@ -11,6 +11,7 @@ This repository includes supplementary material for Patchwork: alignment-based r
 ## Citation
 
 Thalén, F., Köhne, C. G., & Bleidorn, C. (2023). Patchwork: alignment-based retrieval and concatenation of phylogenetic markers from genomic data. _Genome Biology and Evolution, 15_(12), evad227.
+
 BibTeX-format:
 
 ```bibtex
